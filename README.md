@@ -2,7 +2,7 @@
 
 # CredentiaChain: prototype of the verification smart contract
 
-Team NN · Final Project · demo video: `[DEMO VIDEO LINK]` · testnet contract address: none (local network only)
+SE-2524 · Final Project · demo video: <https://youtu.be/tNmTT7wMwjU> · testnet contract address: none (local network only)
 
 CredentiaChain lets approved organisations (universities, employers) register **only salted SHA-256 hashes** of documents, and lets anyone check a hash. No names, IIN, files or funds are stored on the blockchain. This repository is the prototype of the core use case: *issue → verify → revoke*.
 
